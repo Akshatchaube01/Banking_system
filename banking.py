@@ -5,7 +5,7 @@ import sys
 date=datetime.date.today()
 print("")
 print("                  *********** BANK TRANSACTION SYSTEM ***********")
-print("                      Brought to you by : Class 12 python group ")
+print("                      Brought to you by : Akshat Chaube ")
 print("********************************************************************************************")
 input()
 print(" Select an option (1 to 10):-")
